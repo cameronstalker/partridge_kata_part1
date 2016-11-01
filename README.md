@@ -1,7 +1,7 @@
-OCR_alarm_clock
-===============
+# partridge_kata_part1
+Training Kata
 
-A simple project to demonstrate TDD techniques in Scala with ScalaTest
+From https://www.codewars.com/kata/alan-partridge-i-partridge-watch
 
 To Run:
 
